@@ -1,0 +1,209 @@
+body{
+background-color: #FEE19D;
+}
+.form-container{
+    border: 1px solid white;
+    width: 1123px;
+    height: 699px;
+    background-color: white;
+    margin: 75px 85px;
+}
+/* label{
+float: left; 
+padding: 199px 62px;
+}
+input{
+  width: 250px;
+  box-sizing: border-box;
+  padding: 9px 12px;
+  margin: 222px 31px 192px -918px;
+ 
+} */
+
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .one {
+    margin-left: 62px;
+    margin-top: 25px;
+   
+  }
+  .two{
+    margin-left: 62px;
+    margin-top: 82px;
+  }
+  
+  label {
+    /* Uniform size & alignment */
+    display: inline-block;
+    width: 90px;
+   
+    float:left;
+  }
+    
+  input,
+textarea {
+  /* To make sure that all text fields have the same font settings
+     By default, textareas have a monospace font */
+  font: 1em sans-serif;
+
+  /* Uniform text field size */
+  width: 340px;
+  padding: 9px 9px;
+  float:left;
+  border-radius: 4px;
+  margin-left: 5px;
+
+
+
+  /* Match form field borders */
+  border: 1px solid #999;
+}
+
+input:focus,
+textarea:focus {
+  /* Additional highlight for focused elements */
+  float:left;
+  border-color: #000;
+ 
+}
+textarea {
+    /* Align multiline text fields with their labels */
+    vertical-align: top;
+    height: 5em;
+
+}
+.form-components img{
+   width: 22px;
+   margin-top: 59px;
+   margin-left: -985px; 
+}
+h1{
+   font-size: 21px;
+   margin-top: -25px;
+   margin-left: -848px;
+   color: #469DA4;
+   font-family: Roboto Regular
+}
+.p-one{
+    margin-left: 691px;
+    margin-top: -43px;
+    font-family: Roboto Medium;
+    color:#464646 ;
+}
+.sign{
+    margin-left: -9px;
+    margin-top: -35px;    
+}
+.sign a{
+    margin-left: 921px;
+    margin-top: -45px;  
+    font-family: Roboto Medium;
+    font-weight: bold;
+    text-decoration: none;
+    color:#469DA4 ;
+
+}
+
+h2{
+    margin-left: -824px;
+    font-size: 29px;
+    margin-top: 70px;
+    font-weight: 400;
+    font-family: Roboto Regular;
+    color: #464646;
+   
+}
+.check{
+    margin-top: 63px;
+    margin-left: -96px; 
+ 
+   
+}
+.keep{
+    margin-left: -168px;
+    margin-top:1px ;
+    font-family: Roboto Medium;
+    font-size: 16px;
+}
+.log{
+    margin-left: -105px;
+    margin-top: 1px;
+    font-family: Roboto Medium;
+    font-size: 16px;
+    
+}
+.forgot{
+
+}
+.forgot a{
+    margin-right: 659px;
+    text-decoration: none;
+    color:#464646 ;
+}
+.btn-login{
+  margin-left: -882px;
+  margin-top: 36px;
+  padding: 13px 161px;
+  color: white;
+  background-color: #469DA4;
+  border: 1px solid #469DA4;
+  border-radius: 4px;
+ 
+}
+.line-one{
+    width: 146px;
+    margin-top: 32px;
+    margin-left: 71px;
+
+}
+p{
+    margin-left:-652px;
+    margin-top: -19px;   
+  
+}
+.line-two{
+    width: 146px;
+    margin-left: 254px;
+    margin-top:-11px ;
+}
+.face{
+font-size: 20px;
+color: #464646;
+margin-right: -51px;
+margin-left:-708px;
+border: 1px solid #464646;
+width: 29px;
+padding: 5px 2px;
+border-radius: 125%;
+
+}
+.link{
+font-size: 20px;
+color: #464646;
+margin-top: 3px;
+margin-left:77px;
+margin-right: -53px;
+margin-bottom:-1px ;
+border: 1px solid #464646;
+width: 29px;
+padding: 5px 2px;
+border-radius: 125%;
+}
+.insta{
+font-size: 20px;
+color: #464646;
+border: 1px solid #464646;
+width: 29px;
+padding: 5px 2px;
+border-radius: 125%;
+margin-left:77px;
+margin-right: -43px;
+}
+.girly{
+    margin-left: 221px;
+    margin-top: -473px;
+}
